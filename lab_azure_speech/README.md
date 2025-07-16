@@ -29,18 +29,18 @@ Busque um audio que deseje transcrever e salve em um diretório do seu computado
 
 Na página do Azure Speech selecione a conversão desejada, no caso abaixo, selecionaremos "*Conversão de fala em texto*" em seguida "*Tradução de fala*".
 
-<img src="images/speech_passo1.jpg" alt="Passo 1" style="width:60%;">
+<img src="images/speech_passo1.jpg" alt="Passo 1" style="width:80%;">
 
 Selecione o idioma para qual a tradução deve ser realizada, neste caso traduziremos para o português, deixaremos que a IA detecte o idioma original. Carregue o arquivo desejado.
 
-<img src="images/speech_passo2.jpg" alt="Passo 1" style="width:60%;">
+<img src="images/speech_passo2.jpg" alt="Passo 1" style="width:80%;">
 
 Neste caso arrastaremos o arquivo fonte para dentro do Azure Speech.
 
-<img src="images/speech_passo3.jpg" alt="Passo 1" style="width:60%;">
+<img src="images/speech_passo3.jpg" alt="Passo 1" style="width:80%;">
 
 Após carregar o arquivo aguarde para que a IA faça a detecção do áudio e a transcrição. Abaixo o resultado para o caso utilizado neste laboratório:
 
-<img src="images/speech_passo4.jpg" alt="Passo 1" style="width:60%;">
+<img src="images/speech_passo4.jpg" alt="Passo 1" style="width:80%;">
 
 Você pode acessar a documentação oficial no https://learn.microsoft.com/pt-br/azure/ai-services/speech-service/speech-studio-overview
