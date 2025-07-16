@@ -1,6 +1,5 @@
 # LAB DIO
 
-## AZURE SPEECH
-## AZURE LANGUAGE
+## AZURE SPEECH | AZURE LANGUAGE
 
-Para acessar os laboratórios basta acessar as pastas respectivamente.
+### Para acessar os laboratórios basta acessar as pastas respectivamente.
